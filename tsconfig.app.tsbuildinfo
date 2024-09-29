@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/airhistory.tsx","./src/components/airmeasurments.tsx","./src/components/airstatus.tsx","./src/components/logo.tsx","./src/pages/mainpage.tsx","./src/store/airconditionslice.ts","./src/store/store.ts"],"version":"5.6.2"}
